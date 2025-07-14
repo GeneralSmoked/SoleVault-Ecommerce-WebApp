@@ -44,6 +44,7 @@ Go to /includes/db.php
 Update your database credentials
 
 5.Run the App
+
 Visit http://localhost/solevault/
 
 🧪 Future Improvements (optional ideas)
