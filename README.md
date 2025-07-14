@@ -30,7 +30,7 @@ Frontend: HTML, CSS, JavaScript)
 
 Tools: XAMPP / WAMP, phpMyAdmin, Git
 
-⚙️ Setup Instructions
+## ⚙️ Setup Instructions
 ```bash
 1. Clone the Repository
 
